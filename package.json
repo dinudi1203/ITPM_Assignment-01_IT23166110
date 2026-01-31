@@ -1,0 +1,20 @@
+{
+  "name": "itpm-assignment-01-it23181410",
+  "version": "1.0.0",
+  "description": "ITPM Assignment 01 - Singlish to Sinhala Translator Test Suite",
+  "main": "index.js",
+  "scripts": {
+    "test": "cd singlish-playwright && npx playwright test"
+  },
+  "keywords": [
+    "playwright",
+    "testing",
+    "singlish",
+    "sinhala"
+  ],
+  "author": "IT23181410",
+  "license": "ISC",
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
+}
